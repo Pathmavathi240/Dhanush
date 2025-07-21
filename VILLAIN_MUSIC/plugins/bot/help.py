@@ -88,7 +88,7 @@ async def helper_cb(client, CallbackQuery, _):
     elif cb == "hb15":
         await CallbackQuery.edit_message_text(helpers.HELP_15, reply_markup=keyboard)
     elif cb == "hb16":
-    await CallbackQuery.edit_message_text(
+        await CallbackQuery.edit_message_text(
         helpers.HELP_16 + "\n\n📌 Use `/font1`, `/font2`, etc. for stylish fonts.",
         reply_markup=keyboard
     )
