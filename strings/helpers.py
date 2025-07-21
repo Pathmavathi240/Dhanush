@@ -149,11 +149,3 @@ HELP_15 = """
 /speed or /playback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ɢʀᴏᴜᴘ.
 /cspeed or /cplayback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ᴄʜᴀɴɴᴇʟ.
 """
-HELP_16 = """
-💡 This section helps you style your text using fonts commands like:
-/font1 𝓗𝓮𝓵𝓵𝓸
-/font2 ʜᴇʟʟᴏ
-/font3 ℌ𝔢𝔩𝔩𝔬
-
-✅ Try typing /font1 followed by any text to see results.
-"""
