@@ -97,7 +97,7 @@ def help_pannel(_, START: Union[bool, int] = None):
             [
     InlineKeyboardButton("🎨 Fonts Help", callback_data="help_callback hb16"),
     InlineKeyboardButton("⏪ Back", callback_data="settings_back_helper"),
-            ]
+            ],
             mark,
         ]
     )
