@@ -1,4 +1,4 @@
-from DeadlineTech.utils.mongo import db
+from VILLAIN_MUSIC.utils.mongo import db
 
 coupledb = db.couple
 
